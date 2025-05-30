@@ -1,0 +1,17 @@
+{
+    "name": "com.unityessentials.humanoidragdoll",
+    "version": "1.0.0",
+    "displayName": "UnityEssentials HumanoidRagdoll",
+    "description": "This is a part of the UnityEssentials Ecosystem",
+    "unity": "2022.1",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "licensesUrl": "",
+    "dependencies": " { "com.unityessentials.core": "1.0.0" } ",
+    "keywords": [],
+    "author": {
+        "name": "Unity Essentials",
+        "email": "",
+        "url": ""
+    }
+}

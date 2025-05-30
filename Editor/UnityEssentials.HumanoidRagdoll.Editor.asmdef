@@ -1,0 +1,24 @@
+{
+    "name": "UnityEssentials.HumanoidRagdoll.Editor",
+    "rootNamespace": "UnityEssentials",
+    "references": [
+        "GUID:f054f0258fed7844e9dada987e3e00a4",
+        "GUID:fe1bc339c6937424988f5d56c9aae97e",
+        "GUID:e652dc2b5a5451045a50f217499425ea",
+        "GUID:40ccf8ace799d954991e3c03c59c44ee",
+        "GUID:3b3bf7f107ee18f49a6853ce8ac97a3d",
+        "GUID:90ec9bbf957815144841c46153fc35f6",
+        "GUID:f1f7dcaf9ce705345b693a7f9d95838c",
+        "GUID:026550602975f2c43ab20d00c9b1328b",
+        "GUID:72a9fca735ca6474ebd8a1debfd2bb9e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
