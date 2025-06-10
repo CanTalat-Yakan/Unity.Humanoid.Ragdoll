@@ -7,11 +7,11 @@
   "unityRelease": null,
   "dependencies": {
     "com.unityessentials.core": "1.0.0",
-    "com.unityessentials.onvaluechanged": "1.0.0",
-    "com.unityessentials.foldout": "1.0.0",
-    "com.unityessentials.if": "1.0.0",
-    "com.unityessentials.button": "1.0.0",
-    "com.unityessentials.togglebutton": "1.0.0",
+    "com.unityessentials.onvaluechangedattribute": "1.0.0",
+    "com.unityessentials.foldoutattribute": "1.0.0",
+    "com.unityessentials.ifattribute": "1.0.0",
+    "com.unityessentials.buttonattribute": "1.0.0",
+    "com.unityessentials.togglebuttonattribute": "1.0.0",
     "com.unityessentials.utilityextensions": "1.0.0"
   },
   "keywords": [],
