@@ -7,6 +7,7 @@
   "unityRelease": null,
   "dependencies": {
     "com.unityessentials.core": "1.0.0",
+    "com.unityessentials.editoricons": "1.0.0",
     "com.unityessentials.onvaluechangedattribute": "1.0.0",
     "com.unityessentials.foldoutattribute": "1.0.0",
     "com.unityessentials.ifattribute": "1.0.0",
