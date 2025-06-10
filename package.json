@@ -1,17 +1,28 @@
 {
-    "name": "com.unityessentials.humanoidragdoll",
-    "version": "1.0.0",
-    "displayName": "UnityEssentials HumanoidRagdoll",
-    "description": "This is a part of the UnityEssentials Ecosystem",
-    "unity": "2022.1",
-    "documentationUrl": "",
-    "changelogUrl": "",
-    "licensesUrl": "",
-    "dependencies": " { "com.unityessentials.core": "1.0.0" } ",
-    "keywords": [],
-    "author": {
-        "name": "Unity Essentials",
-        "email": "",
-        "url": ""
-    }
+  "name": "com.unityessentials.humanoidragdoll",
+  "version": "1.0.0",
+  "displayName": "UnityEssentials HumanoidRagdoll",
+  "description": "This is a part of the UnityEssentials Ecosystem",
+  "unity": "2022.1",
+  "unityRelease": null,
+  "dependencies": {
+    "com.unityessentials.core": "1.0.0",
+    "com.unityessentials.onvaluechanged": "1.0.0",
+    "com.unityessentials.foldout": "1.0.0",
+    "com.unityessentials.if": "1.0.0",
+    "com.unityessentials.button": "1.0.0",
+    "com.unityessentials.togglebutton": "1.0.0",
+    "com.unityessentials.utilityextensions": "1.0.0"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Unity Essentials",
+    "email": "",
+    "url": ""
+  },
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "samples": [],
+  "hideInEditor": true
 }
