@@ -102,7 +102,8 @@ namespace UnityEssentials
             _drawer?.ChangeMode(_currentSelectedMode);
         }
 
-        [If("_initializedRagdoll", true), Button()]
+        [If("_initializedRagdoll", true)]
+        [Button]
         public void RemoveRagdoll()
         {
             GetAnimator(out var animator);
@@ -118,7 +119,8 @@ namespace UnityEssentials
             DestroyImmediate(animator);
         }
 
-        [IfNot("_initializedRagdoll", true), Button("Create Ragdoll")]
+        [IfNot("_initializedRagdoll", true)]
+        [Button("Create Ragdoll")]
         public void InitializeRagdoll()
         {
             GetAnimator(out var animator);
