@@ -8,11 +8,11 @@ namespace UnityEssentials
     [ExecuteAlways]
     public class RagdollBuilder : MonoBehaviour
     {
-        [ToggleButton(IconNames.EditCollider, "Edit")]
+        [ToggleButton(EditorIconNames.EditCollider, "Edit")]
         [SerializeField] private bool _editCollider = false;
-        [ToggleButton(IconNames.JointAngularLimits, "Edit")]
+        [ToggleButton(EditorIconNames.JointAngularLimits, "Edit")]
         [SerializeField] private bool _editJoints = false;
-        [ToggleButton(IconNames.AvatarInspectorDotFill, "Edit")]
+        [ToggleButton(EditorIconNames.AvatarInspectorDotFill, "Edit")]
         [SerializeField] private bool _editCenterOfMass = false;
 
         [SerializeField] private Avatar _avatar;
