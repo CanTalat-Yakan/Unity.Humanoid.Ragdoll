@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using UnityEngine;
 
 namespace UnityEssentials
@@ -33,3 +34,4 @@ namespace UnityEssentials
         public RagdollPartSphere(Transform transform) : base(transform) { }
     }
 }
+#endif

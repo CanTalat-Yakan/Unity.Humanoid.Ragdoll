@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using System;
 using UnityEngine;
 
@@ -38,3 +39,4 @@ namespace UnityEssentials
         public bool UseAcceleration = true;
     }
 }
+#endif
