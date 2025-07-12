@@ -1,7 +1,6 @@
-using UnityEngine;
 #if UNITY_EDITOR
+using UnityEngine;
 using UnityEditor;
-#endif
 
 namespace UnityEssentials
 {
@@ -29,7 +28,6 @@ namespace UnityEssentials
         public void Awake() =>
             StopEditing();
 
-#if UNITY_EDITOR
         public void OnEnable() =>
             Selection.selectionChanged += OnSelectionChanged;
 
@@ -42,7 +40,6 @@ namespace UnityEssentials
                 InitializeRagdoll();
             else StopEditing();
         }
-#endif
 
         public void StopEditing()
         {
@@ -153,3 +150,4 @@ namespace UnityEssentials
         }
     }
 }
+#endif
