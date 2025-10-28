@@ -1,20 +1,11 @@
 {
   "name": "com.unityessentials.humanoidragdoll",
   "version": "1.0.0",
-  "displayName": "UnityEssentials HumanoidRagdoll",
+  "displayName": "Unity Humanoid Ragdoll",
   "description": "This is a part of the UnityEssentials Ecosystem",
-  "unity": "2022.1",
+  "unity": "6000.0",
   "unityRelease": "",
-  "dependencies": {
-    "com.unityessentials.core": "1.0.0",
-    "com.unityessentials.editoricons": "1.0.0",
-    "com.unityessentials.onvaluechangedattribute": "1.0.0",
-    "com.unityessentials.foldoutattribute": "1.0.0",
-    "com.unityessentials.ifattribute": "1.0.0",
-    "com.unityessentials.buttonattribute": "1.0.0",
-    "com.unityessentials.togglebuttonattribute": "1.0.0",
-    "com.unityessentials.utilityextensions": "1.0.0"
-  },
+  "dependencies": {},
   "keywords": [],
   "author": {
     "name": "Unity Essentials",
