@@ -1,19 +1,19 @@
 {
   "name": "com.unityessentials.humanoid.ragdoll",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "displayName": "Humanoid Ragdoll",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
   "dependencies": {
-    "com.unityessentials.editor.attributes.button": "2.0.0",
-    "com.unityessentials.editor.attributes.foldout": "2.0.0",
-    "com.unityessentials.editor.attributes.labeloverride": "2.0.0",
-    "com.unityessentials.editor.attributes.onvaluechanged": "2.0.0",
-    "com.unityessentials.editor.attributes.showif": "2.0.0",
-    "com.unityessentials.editor.attributes.togglebutton": "2.0.0",
-    "com.unityessentials.editor.tools.editoricons": "2.0.0",
-    "com.unityessentials.systems.utilityextensions": "2.0.0"
+    "com.unityessentials.editor.attributes.button": "~2.0.0",
+    "com.unityessentials.editor.attributes.foldout": "~2.0.0",
+    "com.unityessentials.editor.attributes.labeloverride": "~2.0.0",
+    "com.unityessentials.editor.attributes.onvaluechanged": "~2.0.0",
+    "com.unityessentials.editor.attributes.showif": "~2.0.0",
+    "com.unityessentials.editor.attributes.togglebutton": "~2.0.0",
+    "com.unityessentials.editor.tools.editoricons": "~2.0.0",
+    "com.unityessentials.systems.utilityextensions": "~2.0.0"
   },
   "keywords": [],
   "author": {
