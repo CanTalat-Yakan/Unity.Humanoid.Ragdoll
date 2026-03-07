@@ -1,7 +1,7 @@
 {
-  "name": "com.unityessentials.humanoid.ragdoll",
-  "version": "2.0.4",
-  "displayName": "Humanoid Ragdoll",
+  "name": "com.unityessentials.humanoid.ragdollbuilder",
+  "version": "2.0.5",
+  "displayName": "Humanoid RagdollBuilder",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",

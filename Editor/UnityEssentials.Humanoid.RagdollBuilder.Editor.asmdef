@@ -1,5 +1,5 @@
 {
-    "name": "UnityEssentials.Humanoid.Ragdoll.Editor",
+    "name": "UnityEssentials.Humanoid.RagdollBuilder.Editor",
     "rootNamespace": "UnityEssentials",
     "references": [
         "GUID:f054f0258fed7844e9dada987e3e00a4",
